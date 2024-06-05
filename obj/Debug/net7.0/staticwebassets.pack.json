@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saviour.udoh\\source\\repos\\Uploader_Api\\Uploader_Api\\wwwroot\\Uploads\\det.xlsx",
+      "PackagePath": "staticwebassets\\Uploads\\det.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Uploader_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Uploader_Api.props",
+      "PackagePath": "build\\Uploader_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Uploader_Api.props",
+      "PackagePath": "buildMultiTargeting\\Uploader_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Uploader_Api.props",
+      "PackagePath": "buildTransitive\\Uploader_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

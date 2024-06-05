@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AAzpCquQueWzs96ZXZJ7wclvBTcJ88wE/Q5UNAOtfyU=",
+  "Source": "Uploader_Api",
+  "BasePath": "_content/Uploader_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Uploader_Api\\wwwroot",
+      "Source": "Uploader_Api",
+      "ContentRoot": "C:\\Users\\saviour.udoh\\source\\repos\\Uploader_Api\\Uploader_Api\\wwwroot\\",
+      "BasePath": "_content/Uploader_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\saviour.udoh\\source\\repos\\Uploader_Api\\Uploader_Api\\wwwroot\\Uploads\\det.xlsx",
+      "SourceId": "Uploader_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saviour.udoh\\source\\repos\\Uploader_Api\\Uploader_Api\\wwwroot\\",
+      "BasePath": "_content/Uploader_Api",
+      "RelativePath": "Uploads/det.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\det.xlsx"
+    }
+  ]
+}
